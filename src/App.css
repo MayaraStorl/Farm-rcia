@@ -1,0 +1,39 @@
+:root{
+  --cor-1: #e23e57;
+  --cor-2: #ffffff;
+  --cor-3: #e96a7e;
+  --cor-4: #ce1f3a;
+  --cor-5: #e6e6e6;
+  --cor-6: #ef97a4;
+
+}
+
+
+.navBar-container{
+  display: flex;
+  justify-content: space-around;
+  border: solid 1px;
+  color: #ce1f3954;
+
+
+}
+
+button{
+  border: none;
+  box-shadow: none;
+  margin-top: 2%;
+  background-color: #ce1f3900;
+  color: #e96a7e;
+  text-decoration: none;
+
+}
+
+.logo{
+  width: 200px;
+
+}
+h1{
+  justify-content: center;
+
+
+}
